@@ -17,3 +17,8 @@ NAME : [Rodent12](https://github.com/Rodent12)
 * Place = Jabalpur , India
 * Bio = Software Engineer
 * Github = https://github.com/Rodent12
+
+NAME : [AdrshCode](https://github.com/adrshcode)
+* Place = Deoria, UP
+* Bio = Science Student
+* Github = https://github.com/adrshcode
