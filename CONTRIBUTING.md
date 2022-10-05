@@ -22,3 +22,8 @@ NAME : [AdrshCode](https://github.com/adrshcode)
 * Place = Deoria, UP
 * Bio = Science Student
 * Github = https://github.com/adrshcode
+
+NAME : [KritikaTri](https://github.com/KritikaTri)
+* Place = Uttar Pradesh , India
+* Bio = Software Engineer
+* GitHub = https://github.com/KritikaTri
