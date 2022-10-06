@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>3D Glass Effect</title>
+    </head>
+    <style>
+    body {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    display:flex;
+    justify-content:center;
+    place-items:center;
+    height:100vh;
+    width:100vw;
+}
+
+
+.effect{
+    letter-spacing:10px;
+    text-shadow:red 0 0, cyan 0 0;
+    transition:text-shadow 200ms;
+    font-size:50px;
+    font-weight:1000;
+}
+
+
+.effect:hover{
+    text-shadow:red -5px 0, cyan 5px 0;
+}
+
+
+
+
+    </style>
+    <body>
+        <p class="effect">HELLO</p>
+    </body>
+</html>
