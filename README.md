@@ -64,3 +64,16 @@ Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/
 
 ## Additional references added by contributors
 GitHub license explained [https://choosealicense.com](https://choosealicense.com)
+
+<h2>Project Contributors⭐</h2> 
+
+  <a name = "contributors"></a>
+<table align="center">
+<tr>
+<td>
+<a href="https://github.com/Rodent12/Css-Animations-Projects-Hacktoberfest/graphs/contributors" align="center">
+  <img src="https://contrib.rocks/image?repo=Rodent12/Css-Animations-Projects-Hacktoberfest" /> 
+</a>
+</td>
+</tr>
+</table>
