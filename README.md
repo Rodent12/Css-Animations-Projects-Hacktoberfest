@@ -1,9 +1,9 @@
 #  HacktoberFest CSS/ Small Web Dev Projects 
 
 
-You can use this project to make your first contribution to HacktobeFest. It is a beginner friendly repo. You can contribute by providing us with boilerplate CSS animations for text , buttons , forms or other such elements. You can also upload any web dev project you made like todos , image sliders and such.
+You can use this project to make your first contribution to HacktobeFest. It's a beginner friendly repository. You can contribute by providing us with boilerplate CSS animations for text , buttons , forms or other such elements. You can also upload any web dev project you made like todos , image sliders and so on.
 
-The contributions to this repo will be used in my main ecommerce based website , [AaasPaas](https://github.com/AasPaas-5/AasPaas-Alpha)
+The contributions to this repository will be used in my main ecommerce based website , [AaasPaas](https://github.com/AasPaas-5/AasPaas-Alpha)
 
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
 
@@ -44,8 +44,8 @@ git commit -m 'Commit message'
 git push origin branch-name
 ```
 
-* Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
-* Wait for your PR review and merge approval!
+* Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repository)
+* Wait for your Pull Request review and merge approval!
 * __Star this repository__ if you had fun!
 
 
@@ -53,7 +53,7 @@ git push origin branch-name
 Here is a great tutorial for creating your first pull request by [Roshan Jossey](https://github.com/Roshanjossey):
 [https://github.com/Roshanjossey/first-contributions](https://github.com/Roshanjossey/first-contributions)
 
-Managing your Forked Repo: [https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/)
+Managing your Forked Repository: [https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/)
 
 Syncing a Fork: [https://help.github.com/articles/syncing-a-fork/](https://help.github.com/articles/syncing-a-fork/)
 
@@ -67,7 +67,7 @@ GitHub license explained [https://choosealicense.com](https://choosealicense.com
 
 <h2>Project Contributors⭐</h2> 
 
-  <a name = "contributors"></a>
+  <a name = "Contributors"></a>
 <table align="center">
 <tr>
 <td>
